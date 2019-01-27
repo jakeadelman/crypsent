@@ -1,5 +1,6 @@
 import MyForm from "../components/MyForm";
 import MainLayout from "../layouts/MainLayout";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 export default () => (
   <MainLayout>
